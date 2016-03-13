@@ -265,7 +265,7 @@ padding-right:10px;
 }
 #top-container .text h1 {
 float:left;
-font-family:'BebasNeueRegular';
+font-family: Microsoft Yahei;
 font-size:31px;
 color:#282828;
 line-height:34px;
@@ -273,17 +273,17 @@ padding-right:20px;
 }
 #top-container .text span {
 font-family:Georgia;
-font-style:italic;
-font-size:20px;
+/*font-style:italic;
+*/font-size:14px;
 color:#292929;
 line-height:28px;
-float:left;
+float:right;
 padding:10px 0 10px 0;
 padding-right:20px;
 }
 #top-container .text p {
-font-family:Arial;
-font-size:12px;
+font-family:Microsoft Yahei;
+font-size:16px;
 color:#4b4b4b;
 line-height:22px;
 height:65px;
